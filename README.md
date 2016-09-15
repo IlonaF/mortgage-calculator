@@ -9,3 +9,5 @@ Input form that calculates monthly mortgage repayments using PMT formula
   			0: end of period
   			1: beginning of period
 */
+
+JSFiddle link : https://jsfiddle.net/ilonaferenc/1g4w5uap/
