@@ -17,14 +17,24 @@
 }
 
 .calculator input::-webkit-input-placeholder {
-  	color: #000000;
+	color: #000000;
 }
 .calculator input::-moz-placeholder {
-	color: #000000;
+  color: #000000;
 }
 .calculator input:-ms-input-placeholder {
-  	color: #000000;
+  color: #000000;
 }
 .calculator input:-moz-placeholder {
-	color: #000000;
+  color: #000000;
+}
+
+.button{
+  background-color: #ccc;
+  padding: 5px 10px;
+}
+
+.results label{
+  display: block;
+  width: 100%;
 }
